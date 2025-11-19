@@ -29,14 +29,7 @@ Here are some of the beginner projects I'm working on:
 ### 🔹 Portfolio Website  
 A clean personal website built with HTML, CSS & JavaScript.
 
-### 🔹 Weather App  
-Fetches real-time weather using an API.
 
-### 🔹 Notes App  
-Stores notes using JavaScript LocalStorage.
-
-### 🔹 Calculator  
-Basic calculator made with HTML, CSS, JS.
 
 More coming soon… 🚀
 
