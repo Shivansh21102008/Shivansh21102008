@@ -29,9 +29,13 @@ Here are some of the beginner projects I'm working on:
 ### 🔹 Portfolio Website  
 A clean personal website built with HTML, CSS & JavaScript.
 
+### 🔹 Uber Homepage Clone
+Developed a responsive, pixel-perfect Uber homepage clone using HTML, CSS, and JavaScript.
+Focused on UI/UX accuracy, modern layout techniques, and mobile responsiveness.
 
 
-More coming soon… 🚀
+
+
 
 ---
 
